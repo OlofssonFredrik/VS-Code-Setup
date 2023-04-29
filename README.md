@@ -9,14 +9,7 @@ Auto Rename tag
 Jinja
 
 Python: (Python extention pack)
-Black formatter add:
-"[python]": {
-    "editor.formatOnType": true,
-    "editor.defaultFormatter": "ms-python.black-formatter",
-    "editor.codeActionsOnSave": {
-      "source.organizeImports": true
-    }
-  },
+Black formatter add
 Jupyter 
 Jupyter Keymap
 Jupyter Notebook Renders
