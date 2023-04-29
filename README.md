@@ -12,11 +12,8 @@ Auto Rename tag,
 
 Python: 
 Python extention pack,
-Black formatter add,
 Jupyter,
-Jupyter Keymap,
-Jupyter Notebook Renders,
-Jupyter Slide Show,
+Black formatter,
 Pylance,
 
 
