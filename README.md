@@ -3,6 +3,8 @@
 This is a Guide on how to optimally setup your VS Code environment for Python development
 
 Extentions:
+
+
 HTML:
 Auto Close tag
 Auto Rename tag
@@ -25,9 +27,6 @@ Intellicode
 JSON
 Material Icon Theme
 Prettier
-
-
-
 
 
 Maybe:
