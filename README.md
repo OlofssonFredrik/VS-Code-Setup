@@ -6,27 +6,26 @@ Extentions:
 
 
 HTML:
-Auto Close tag
-Auto Rename tag
-Jinja
+Auto Close tag,
+Auto Rename tag,
 
-Python: (Python extention pack)
-Black formatter add
-Jupyter 
-Jupyter Keymap
-Jupyter Notebook Renders
-Jupyter Slide Show
-Pylance
-Python
+
+Python: 
+Python extention pack,
+Black formatter add,
+Jupyter,
+Jupyter Keymap,
+Jupyter Notebook Renders,
+Jupyter Slide Show,
+Pylance,
+
 
 General:
-autoDocstring
-Github Copilot
-Github Copilot Labs
-Intellicode
-JSON
-Material Icon Theme
-Prettier
+Github Copilot,
+Github Copilot Labs,
+JSON,
+Material Icon Theme,
+Prettier,
 
 
 Maybe:
