@@ -26,5 +26,5 @@ Prettier,
 
 
 Maybe:
-Gitlens
+Gitlens,
 Indent Rainbow
