@@ -19,10 +19,12 @@ Pylance,
 
 General:
 Github Copilot,
+Github Copilot Nightly
 Github Copilot Labs,
 JSON,
 Material Icon Theme,
 Prettier,
+Code Spell Checker
 
 
 Maybe:
