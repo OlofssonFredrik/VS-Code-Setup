@@ -25,6 +25,7 @@ JSON,
 Material Icon Theme,
 Prettier,
 Code Spell Checker
+Pip install black
 
 
 Maybe:
