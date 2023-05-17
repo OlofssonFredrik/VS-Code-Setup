@@ -15,6 +15,7 @@ Python extention pack,
 Jupyter,
 Black formatter,
 Pylance,
+Pip install black and enable python provider 
 
 
 General:
@@ -25,7 +26,7 @@ JSON,
 Material Icon Theme,
 Prettier,
 Code Spell Checker,
-Pip install black and enable python provider 
+
 
 
 Maybe:
