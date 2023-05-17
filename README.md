@@ -19,13 +19,13 @@ Pylance,
 
 General:
 Github Copilot,
-Github Copilot Nightly
+Github Copilot Nightly,
 Github Copilot Labs,
 JSON,
 Material Icon Theme,
 Prettier,
-Code Spell Checker
-Pip install black
+Code Spell Checker,
+Pip install black and enable python provider 
 
 
 Maybe:
