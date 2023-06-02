@@ -26,6 +26,8 @@ JSON,
 Material Icon Theme,
 Prettier,
 Code Spell Checker,
+Marp,
+
 
 
 
