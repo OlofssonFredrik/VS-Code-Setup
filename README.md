@@ -34,3 +34,6 @@ Marp,
 Maybe:
 Gitlens,
 Indent Rainbow
+
+Kaleido: c:\Users\SEOLOFSSOF\AppData\Local\Programs\Python\Python311\python.exe -m pip install -U kaleido
+Problem not occuring on pip list in jupyter environment but at machine when doing pip install -U kaleido
