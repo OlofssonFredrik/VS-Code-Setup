@@ -37,14 +37,13 @@ To install an extension, simply type its name in the search bar and press the in
 ![image](https://github.com/OlofssonFredrik/VS-Code-Setup/assets/107762409/b98c0e38-a676-4c4f-8856-af56608bd5ce)
 
 
-
 ## Step 6: Open Python Project in VS Code
 To open your Python project, navigate to File > Open Folder and select your project folder.
 
 ![image](https://github.com/OlofssonFredrik/VS-Code-Setup/assets/107762409/be6424cc-f91a-413b-8135-02d2661545fa)
 
 ## Step 7: Select Kernel/Interpeter
-When running a file, you need to specify which python version that will be used, of course we want to use the one we downloaded. In the top right corner, you can see the version that is currently active, if none are, you can select the one you downloaded by clicking on it
+When running a file, you need to specify which python version that will be used, of course we want to use the one we downloaded. In the top right corner, you can see the version that is currently active, if none are, you can select the one you downloaded by clicking on it. Select Kernel --> Python Environments --> Click on the one you downloaded
 
 ![image](https://github.com/OlofssonFredrik/VS-Code-Setup/assets/107762409/f2399fe3-74ea-4e1d-801f-63f57fc8da2d)
 
