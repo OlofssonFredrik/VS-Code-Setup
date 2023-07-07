@@ -4,22 +4,27 @@ Welcome to this beginner-friendly guide for setting up your Python development e
 
 ## Step 1: Install VS Code
 Download VS Code from their official site and install it on your system. The download button is clearly visible on the site and corresponds to your specific operating system (Windows, MacOS, Linux).
-![image](https://github.com/OlofssonFredrik/VS-Code-Setup/assets/107762409/71a4f4c5-2d5d-4eec-a229-a8b4c9c20b9d)
 
+![image](https://github.com/OlofssonFredrik/VS-Code-Setup/assets/107762409/71a4f4c5-2d5d-4eec-a229-a8b4c9c20b9d)
+ 
 ## Step 2: Install Python
 Download the latest version of Python from the official Python website. Important: Ensure to tick the box that says "Add Python to PATH" during the installation process to enable access to Python from any terminal
+
 ![image](https://github.com/OlofssonFredrik/VS-Code-Setup/assets/107762409/4cd4e3a4-2d06-4764-b70f-9e5112d2e8fd)
 
 ## Step 3: Install Python Libraries
 To run Python scripts, you'll need some additional libraries. These can be installed via the Command Prompt (Windows) or Terminal (MacOS, Linux). Run the following command:
 pip install numpy plotly matplotlib h5py pandas imageio scipy ipywidgets hdf5plugin
+
 ![image](https://github.com/OlofssonFredrik/VS-Code-Setup/assets/107762409/017a7596-7596-4bfe-bd9f-414cdec54a63)
 
 Let it take its time, it can take a minute or two depending on your internet. When finished it will look like this, dont worry about any warning messages:
+
 ![image](https://github.com/OlofssonFredrik/VS-Code-Setup/assets/107762409/2d0de27e-6add-4272-854b-e6f6be7ae1ed)
 
 ## Step 4: Set Up VS Code
 Launch VS Code. You'll be asked to select a theme of your preference.
+
 ![image](https://github.com/OlofssonFredrik/VS-Code-Setup/assets/107762409/6b913a2a-1529-46b5-bfa2-ba7b00a6e7e3)
 
 ## Step 5: Install VS Code Extensions
