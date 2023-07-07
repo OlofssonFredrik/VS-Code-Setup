@@ -4,8 +4,10 @@ Welcome to this beginner-friendly guide for setting up your Python development e
 Step 1: Install VS Code
 Download VS Code from their official site and install it on your system. The download button is clearly visible on the site and corresponds to your specific operating system (Windows, MacOS, Linux).
 https://code.visualstudio.com/download
+
 Step 2: Install Python
 Download the latest version of Python from the official Python website. Important: Ensure to tick the box that says "Add Python to PATH" during the installation process to enable access to Python from any terminal.
+
 https://www.python.org/downloads/
 
 Python installation
