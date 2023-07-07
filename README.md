@@ -70,15 +70,24 @@ Pylance (Static type checking)
 
 Auto Close Tag (HTML)
 
-  Auto Rename Tag (HTML)
+Auto Rename Tag (HTML)
+
 Github Copilot (AI pair programming assistant, subscription required)  
-    JSON
+
+JSON
+
 Material Icon Theme (Enhances readability)
+
 Prettier (Code formatter)  
+
 Code Spell Checker 
+
 Marp (Markdown presentation)
+
 GitLens (Git version history)
+
 Indent Rainbow (Indentation support)
+
 Install these extensions the same way as described in Step 5 for a smoother and more productive development experience.
 
 ## Installing Kaleido for Image Export
