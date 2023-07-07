@@ -1,4 +1,4 @@
-#Python - VS Code Setup
+# Python - VS Code Setup
 
 Welcome to this beginner-friendly guide for setting up your Python development environment using Visual Studio Code (VS Code). This guide will walk you through each step from downloading VS Code to installing Python, necessary extensions, and libraries.
 
