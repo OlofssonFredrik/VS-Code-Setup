@@ -30,12 +30,13 @@ Launch VS Code. You'll be asked to select a theme of your preference.
 
 ## Step 5: Install VS Code Extensions
 VS Code extensions can enhance your coding experience. Install the extensions by going to the extensions tab (or press Ctrl+Shift+X). Here are some essential extensions:
-
-![image](https://github.com/OlofssonFredrik/VS-Code-Setup/assets/107762409/b98c0e38-a676-4c4f-8856-af56608bd5ce)
-
 Python Extension Pack: For Python language support.
 Jupyter: For interactive notebooks support.
 To install an extension, simply type its name in the search bar and press the install button.
+
+![image](https://github.com/OlofssonFredrik/VS-Code-Setup/assets/107762409/b98c0e38-a676-4c4f-8856-af56608bd5ce)
+
+
 
 ## Step 6: Open Python Project in VS Code
 To open your Python project, navigate to File > Open Folder and select your project folder.
