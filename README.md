@@ -1,10 +1,20 @@
 #Python - VS Code Setup
 
-This is a Guide on how to optimally setup your VS Code environment for Python development
+This is a Guide on how to optimally setup your Visual Studio Code environment for Python development
 
 First, download VS Code https://code.visualstudio.com/download Click on the big download button for your operating system
-Secondly, download Python https://www.python.org/downloads/ Download the Newest version on front page. IMPORTANT: When asked about path configuration. CLICK ADD TO PATH 
+Secondly, download Python https://www.python.org/downloads/ Download the Newest version on front page. IMPORTANT: BEFORE clicking on "Install Now" make sure you mark  ADD TO PATH. This makes sure you your python program will be accessed correctly later when using.
 ![image](https://github.com/OlofssonFredrik/VS-Code-Setup/assets/107762409/4cd4e3a4-2d06-4764-b70f-9e5112d2e8fd)
+
+Next up, to be able to run common scripts, you need to install special libraries for python, for example Matplotlib for plotting and visualization: Search for Command Prompt in the search bar on your computer open it and paste this: 
+pip install numpy plotly matplotlib h5py pandas imageio scipy ipywidgets hdf5plugin
+![image](https://github.com/OlofssonFredrik/VS-Code-Setup/assets/107762409/017a7596-7596-4bfe-bd9f-414cdec54a63)
+
+Let it take its time, it can take a minute or two depending on your internet. When finished it will look like this, dont worry about any warning messages:
+![image](https://github.com/OlofssonFredrik/VS-Code-Setup/assets/107762409/2d0de27e-6add-4272-854b-e6f6be7ae1ed)
+
+Now, find your Visual Studio Code application on your computer. Initially it will ask for a theme and choose any of your preference, dark theme is preffered by programmers:
+![image](https://github.com/OlofssonFredrik/VS-Code-Setup/assets/107762409/6b913a2a-1529-46b5-bfa2-ba7b00a6e7e3)
 
 Extentions:
 
