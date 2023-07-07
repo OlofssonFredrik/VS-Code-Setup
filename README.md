@@ -2,7 +2,7 @@
 
 Welcome to this beginner-friendly guide for setting up your Python development environment using Visual Studio Code (VS Code). This guide will walk you through each step from downloading VS Code to installing Python, necessary extensions, and libraries.
 
-## Step 1: Install VS Code
+## Step 1: Install Visual Studio Code (VS Code)
 Download VS Code from their official site and install it on your system. The download button is clearly visible on the site and corresponds to your specific operating system (Windows, MacOS, Linux).
 
 ![image](https://github.com/OlofssonFredrik/VS-Code-Setup/assets/107762409/71a4f4c5-2d5d-4eec-a229-a8b4c9c20b9d)
