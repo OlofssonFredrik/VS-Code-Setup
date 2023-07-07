@@ -19,7 +19,7 @@ pip install numpy plotly matplotlib h5py pandas imageio scipy ipywidgets hdf5plu
 ![image](https://github.com/OlofssonFredrik/VS-Code-Setup/assets/107762409/dbe3e51f-63cd-464f-9eea-397b4b20cffd)
 
 
-Let it take its time, it can take a minute or two depending on your internet. When finished it will look like this, dont worry about any warning messages:
+### Let it take its time, it can take a minute or two depending on your internet. When finished it will look like this, dont worry about any warning messages:
 
 ![image](https://github.com/OlofssonFredrik/VS-Code-Setup/assets/107762409/2d0de27e-6add-4272-854b-e6f6be7ae1ed)
 
