@@ -54,35 +54,25 @@ Here are some additional extensions you might find useful:
 
 
 
-Python Extensions:
-
 Black (Python formatter)
 Pylance (Static type checking)
-HTML Extensions:
-
-Auto Close Tag
-Auto Rename Tag
-General Extensions:
-
-Github Copilot
+Auto Close Tag (HTML)
+Auto Rename Tag (HTML)
+Github Copilot (Requires Subscription)
 JSON
-Material Icon Theme
+Material Icon Theme (Improved readability of files, must have)
 Prettier (Code formatter)
 Code Spell Checker
 Marp (Markdown presentation)
+GitLens (Git version history)
+Indent Rainbow (Indentation support)
 These extensions can make your development experience smoother and more productive. You can install these the same way as in Step 5.
 
-Optional Extensions:
-
-GitLens
-Indent Rainbow
-Kaleido Installation:
-
-For some projects, you might need the kaleido package. You can install it with the following command:
 
 
-Note: The issues with kaleido not appearing in the list of installed packages in a Jupyter environment but being available in the system's Python environment can be due to environment mismatch. Make sure you're using the same Python environment across all platforms.
+## Kaleido Installation - Writing images to directory
 
+To write images you might need the kaleido package. It has caused me issues with it being installed globally but not in my current directory, when I ran this command in the commmand prompt specifying the path it works. You can always run both at the root where you installed all python libraries and in your code to see which libraries are available at that level
+### pip list 
+c:\Users\SEOLOFSSOF\AppData\Local\Programs\Python\Python311\python.exe -m pip install -U kaleido
 
-Kaleido: c:\Users\SEOLOFSSOF\AppData\Local\Programs\Python\Python311\python.exe -m pip install -U kaleido
-Problem not occuring on pip list in jupyter environment but at machine when doing pip install -U kaleido
