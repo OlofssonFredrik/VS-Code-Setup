@@ -70,12 +70,12 @@ Pylance (Static type checking)
 
 Auto Close Tag (HTML)
 
-Auto Rename Tag (HTML)
-Github Copilot (AI pair programming assistant, subscription required)
-JSON
+  Auto Rename Tag (HTML)
+Github Copilot (AI pair programming assistant, subscription required)  
+    JSON
 Material Icon Theme (Enhances readability)
-Prettier (Code formatter)
-Code Spell Checker
+Prettier (Code formatter)  
+Code Spell Checker 
 Marp (Markdown presentation)
 GitLens (Git version history)
 Indent Rainbow (Indentation support)
