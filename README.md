@@ -1,53 +1,72 @@
-#Python - VS Code Setup
+Python - VS Code Setup Guide
+Welcome to this beginner-friendly guide for setting up your Python development environment using Visual Studio Code (VS Code). This guide will walk you through each step from downloading VS Code to installing Python, necessary extensions, and libraries.
 
-This is a Guide on how to optimally setup your Visual Studio Code environment for Python development
+Step 1: Install VS Code
+Download VS Code from their official site and install it on your system. The download button is clearly visible on the site and corresponds to your specific operating system (Windows, MacOS, Linux).
 
-First, download VS Code https://code.visualstudio.com/download Click on the big download button for your operating system
-Secondly, download Python https://www.python.org/downloads/ Download the Newest version on front page. IMPORTANT: BEFORE clicking on "Install Now" make sure you mark  ADD TO PATH. This makes sure you your python program will be accessed correctly later when using.
-![image](https://github.com/OlofssonFredrik/VS-Code-Setup/assets/107762409/4cd4e3a4-2d06-4764-b70f-9e5112d2e8fd)
+Step 2: Install Python
+Download the latest version of Python from the official Python website. Important: Ensure to tick the box that says "Add Python to PATH" during the installation process to enable access to Python from any terminal.
 
-Next up, to be able to run common scripts, you need to install special libraries for python, for example Matplotlib for plotting and visualization: Search for Command Prompt in the search bar on your computer open it and paste this: 
+Python installation
+
+Step 3: Install Python Libraries
+To run Python scripts, you'll need some additional libraries. These can be installed via the Command Prompt (Windows) or Terminal (MacOS, Linux). Run the following command:
+
+bash
+Copy code
 pip install numpy plotly matplotlib h5py pandas imageio scipy ipywidgets hdf5plugin
-![image](https://github.com/OlofssonFredrik/VS-Code-Setup/assets/107762409/017a7596-7596-4bfe-bd9f-414cdec54a63)
+Let the installation run; this might take a few minutes.
 
-Let it take its time, it can take a minute or two depending on your internet. When finished it will look like this, dont worry about any warning messages:
-![image](https://github.com/OlofssonFredrik/VS-Code-Setup/assets/107762409/2d0de27e-6add-4272-854b-e6f6be7ae1ed)
+Step 4: Set Up VS Code
+Launch VS Code. You'll be asked to select a theme of your preference.
 
-Now, find your Visual Studio Code application on your computer. Initially it will ask for a theme and choose any of your preference, dark theme is preffered by programmers:
-![image](https://github.com/OlofssonFredrik/VS-Code-Setup/assets/107762409/6b913a2a-1529-46b5-bfa2-ba7b00a6e7e3)
+VS Code Theme
 
-Extentions:
+Step 5: Install VS Code Extensions
+VS Code extensions can enhance your coding experience. Install the extensions by going to the extensions tab (or press Ctrl+Shift+X). Here are some essential extensions:
 
+Python Extension Pack: For Python language support.
+Jupyter: For interactive notebooks support.
+To install an extension, simply type its name in the search bar and press the install button.
 
-HTML:
-Auto Close tag,
-Auto Rename tag,
+Step 6: Open Python Project in VS Code
+To open your Python project, navigate to File > Open Folder and select your project folder.
 
+Recommended VS Code Extensions:
+Here are some additional extensions you might find useful:
 
-Python: 
-Python extention pack,
-Jupyter,
-Black formatter,
-Pylance,
-Pip install black and enable python provider 
+Python Extensions:
 
+Black (Python formatter)
+Pylance (Static type checking)
+HTML Extensions:
 
-General:
-Github Copilot,
-Github Copilot Nightly,
-Github Copilot Labs,
-JSON,
-Material Icon Theme,
-Prettier,
-Code Spell Checker,
-Marp,
+Auto Close Tag
+Auto Rename Tag
+General Extensions:
 
+Github Copilot
+JSON
+Material Icon Theme
+Prettier (Code formatter)
+Code Spell Checker
+Marp (Markdown presentation)
+These extensions can make your development experience smoother and more productive. You can install these the same way as in Step 5.
 
+Optional Extensions:
 
-
-Maybe:
-Gitlens,
+GitLens
 Indent Rainbow
+Kaleido Installation:
+
+For some projects, you might need the kaleido package. You can install it with the following command:
+
+bash
+Copy code
+python -m pip install -U kaleido
+This command uses your Python executable to install kaleido.
+
+Note: The issues with kaleido not appearing in the list of installed packages in a Jupyter environment but being available in the system's Python environment can be due to environment mismatch. Make sure you're using the same Python environment across all platforms.
 
 Kaleido: c:\Users\SEOLOFSSOF\AppData\Local\Programs\Python\Python311\python.exe -m pip install -U kaleido
 Problem not occuring on pip list in jupyter environment but at machine when doing pip install -U kaleido
