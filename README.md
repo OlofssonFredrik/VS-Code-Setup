@@ -73,6 +73,12 @@ These extensions can make your development experience smoother and more producti
 ## Kaleido Installation - Writing images to directory
 
 To write images you might need the kaleido package. It has caused me issues with it being installed globally but not in my current directory, when I ran this command in the commmand prompt specifying the path it works. You can always run both at the root where you installed all python libraries and in your code to see which libraries are available at that level
-### pip list 
+
+
 c:\Users\SEOLOFSSOF\AppData\Local\Programs\Python\Python311\python.exe -m pip install -U kaleido
+
+### pip list 
+
+![image](https://github.com/OlofssonFredrik/VS-Code-Setup/assets/107762409/790e41c9-717a-4f63-87c1-63f67fa1ee84)
+
 
