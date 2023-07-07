@@ -42,44 +42,48 @@ To open your Python project, navigate to File > Open Folder and select your proj
 
 ![image](https://github.com/OlofssonFredrik/VS-Code-Setup/assets/107762409/be6424cc-f91a-413b-8135-02d2661545fa)
 
-## Step 7: Select Kernel/Interpeter
-When running a file, you need to specify which python version that will be used, of course we want to use the one we downloaded. In the top right corner, you can see the version that is currently active, if none are, you can select the one you downloaded by clicking on it. Select Kernel --> Python Environments --> Click on the one you downloaded
+## Step 7: Selecting the Kernel/Interpreter
+The kernel/interpreter you select defines the Python version that will be used to run your files. You should choose the one you've recently installed. To do this:
+
+### Locate the version currently in use at the top right corner of VS Code.
+### Click on it, then select Kernel --> Python Environments.
+### Choose the version you've installed.
 
 ![image](https://github.com/OlofssonFredrik/VS-Code-Setup/assets/107762409/f2399fe3-74ea-4e1d-801f-63f57fc8da2d)
 
-## Problem with Ipykernel not installed
-If you are ever get the message that ipykernel is required, check that you are using the correct one that you downloaded, otherwise. Click Install. This is a frequent problem. If it still sais that it is not installed. Try reloading VS Code application and install it again. If that doesnt work. Try restarting your computer. You can try to do run the command "pip install ipykernel" in your command prompth as before:
+## Problem with ipykernel not installed
+Running into a message that ipykernel is required is a common issue. First, verify that you're using the Python version you've downloaded. If the problem persists, click Install. If you still encounter issues, try the following steps:
+
+Reload the VS Code application and attempt installation again.
+Restart your computer and try installing again.
+Run the command pip install ipykernel in your command prompt.
 
 ![image](https://github.com/OlofssonFredrik/VS-Code-Setup/assets/107762409/c58c2852-ca26-403d-9941-43e058b28b9a)
 
 
-## Recommended VS Code Extensions:
-Here are some additional extensions you might find useful:
+## Recommended VS Code Extensions
+Consider enhancing your development experience with these extensions:
 
 Black (Python formatter)
 Pylance (Static type checking)
 Auto Close Tag (HTML)
 Auto Rename Tag (HTML)
-Github Copilot (Requires Subscription)
+Github Copilot (AI pair programming assistant, subscription required)
 JSON
-Material Icon Theme (Improved readability of files, must have)
+Material Icon Theme (Enhances readability)
 Prettier (Code formatter)
 Code Spell Checker
 Marp (Markdown presentation)
 GitLens (Git version history)
 Indent Rainbow (Indentation support)
-These extensions can make your development experience smoother and more productive. You can install these the same way as in Step 5.
+Install these extensions the same way as described in Step 5 for a smoother and more productive development experience.
 
-
-
-## Kaleido Installation - Writing images to directory
-
-To write images you might need the kaleido package. It has caused me issues with it being installed globally but not in my current directory, when I ran this command in the commmand prompt specifying the path it works. You can always run both at the root where you installed all python libraries and in your code to see which libraries are available at that level
-
+## Installing Kaleido for Image Export
+If you need to export plots to static images, you might require the kaleido package. If you find it installed globally but not in your current directory, you can specifically install it using the following command in your command prompt:
 
 c:\Users\SEOLOFSSOF\AppData\Local\Programs\Python\Python311\python.exe -m pip install -U kaleido
 
-### pip list 
+### You can run pip list both at the root (where you installed all Python libraries) and in your code to see the libraries available at each level.
 
 ![image](https://github.com/OlofssonFredrik/VS-Code-Setup/assets/107762409/790e41c9-717a-4f63-87c1-63f67fa1ee84)
 
