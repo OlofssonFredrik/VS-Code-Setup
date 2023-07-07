@@ -64,8 +64,8 @@ Run the command pip install ipykernel in your command prompt.
 ## Recommended VS Code Extensions
 Consider enhancing your development experience with these extensions:
 
-Black (Python formatter)
-Pylance (Static type checking)
+Black (Python formatter),
+Pylance (Static type checking),
 Auto Close Tag (HTML)
 Auto Rename Tag (HTML)
 Github Copilot (AI pair programming assistant, subscription required)
