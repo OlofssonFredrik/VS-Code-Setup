@@ -95,7 +95,7 @@ If you need to export plots to static images, you might require the kaleido pack
 
 c:\Users\SEOLOFSSOF\AppData\Local\Programs\Python\Python311\python.exe -m pip install -U kaleido
 
-### You can run pip list both at the root (where you installed all Python libraries) and in your code to see the libraries available at each level.
+### You can run "pip list" both at the root (where you installed all Python libraries in the command prompt) and in your code to see the libraries available at each level.
 
 ![image](https://github.com/OlofssonFredrik/VS-Code-Setup/assets/107762409/790e41c9-717a-4f63-87c1-63f67fa1ee84)
 
