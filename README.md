@@ -1,6 +1,10 @@
-# VS-Code-Setup
+#Python - VS Code Setup
 
 This is a Guide on how to optimally setup your VS Code environment for Python development
+
+First, download VS Code https://code.visualstudio.com/download Click on the big download button for your operating system
+Secondly, download Python https://www.python.org/downloads/ Download the Newest version on front page. IMPORTANT: When asked about path configuration. CLICK ADD TO PATH 
+![image](https://github.com/OlofssonFredrik/VS-Code-Setup/assets/107762409/4cd4e3a4-2d06-4764-b70f-9e5112d2e8fd)
 
 Extentions:
 
