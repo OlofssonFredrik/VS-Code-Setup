@@ -47,11 +47,14 @@ When running a file, you need to specify which python version that will be used,
 
 ![image](https://github.com/OlofssonFredrik/VS-Code-Setup/assets/107762409/f2399fe3-74ea-4e1d-801f-63f57fc8da2d)
 
+## Problem with Ipykernel not installed
+If you are ever get the message that ipykernel is required, check that you are using the correct one that you downloaded, otherwise. Click Install. This is a frequent problem. If it still sais that it is not installed. Try reloading VS Code application and install it again. If that doesnt work. Try restarting your computer. You can try to do run the command "pip install ipykernel" in your command prompth as before:
+
+![image](https://github.com/OlofssonFredrik/VS-Code-Setup/assets/107762409/c58c2852-ca26-403d-9941-43e058b28b9a)
+
 
 ## Recommended VS Code Extensions:
 Here are some additional extensions you might find useful:
-
-
 
 Black (Python formatter)
 Pylance (Static type checking)
