@@ -25,11 +25,9 @@ pip install numpy plotly matplotlib h5py pandas imageio scipy ipywidgets hdf5plu
 
 # Step 4: Sync Onedrive 
 
-In order to use data and scripts. Go to "Extracting and analysing data from ForMAX" and in topmenu with three dots (...) click "sync". This will create a local path on your directory with the nessecary folder that you can open using VS Code 
+To get access to files saved on Onedrive you have to sync it, you also have to be invited to the Onedrive. Go to "Extracting and analysing data from ForMAX" and in topmenu with three dots (...) click "sync". This will create a local path on your directory with the nessecary folder that you can open using VS Code 
 
 ![image](https://github.com/OlofssonFredrik/VS-Code-Setup/assets/107762409/181a4a9f-6f33-439f-bd8f-ab4a270e9bb2)
-
-
 
 # Step 4: Set Up VS Code
 Launch VS Code. You'll be asked to select a theme of your preference.
@@ -48,7 +46,8 @@ To install an extension, simply type its name in the search bar and press the in
 # Step 6: Open Python Project in VS Code
 To open your Python project, navigate to File > Open Folder and select your project folder.
 
-![image](https://github.com/OlofssonFredrik/VS-Code-Setup/assets/107762409/be6424cc-f91a-413b-8135-02d2661545fa)
+![image](https://github.com/OlofssonFredrik/VS-Code-Setup/assets/107762409/9b548f2e-cc66-41e0-8653-3a4f0667fa63)
+
 
 # Step 7: Selecting the Kernel/Interpreter
 The kernel/interpreter you select defines the Python version that will be used to run your files. You should choose the one you've recently installed. To do this:
