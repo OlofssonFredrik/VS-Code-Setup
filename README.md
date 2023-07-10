@@ -29,12 +29,12 @@ To get access to files saved on Onedrive you have to sync it, you also have to b
 
 ![image](https://github.com/OlofssonFredrik/VS-Code-Setup/assets/107762409/181a4a9f-6f33-439f-bd8f-ab4a270e9bb2)
 
-# Step 4: Set Up VS Code
+# Step 5: Set Up VS Code
 Launch VS Code. You'll be asked to select a theme of your preference.
 
 ![image](https://github.com/OlofssonFredrik/VS-Code-Setup/assets/107762409/6b913a2a-1529-46b5-bfa2-ba7b00a6e7e3)
 
-# Step 5: Install VS Code Extensions
+# Step 6: Install VS Code Extensions
 VS Code extensions can enhance your coding experience. Install the extensions by going to the extensions tab (or press Ctrl+Shift+X). Here are some essential extensions:
 ## Python Extension Pack: For Python language support.
 ## Jupyter: For interactive notebooks support.
@@ -43,13 +43,13 @@ To install an extension, simply type its name in the search bar and press the in
 ![image](https://github.com/OlofssonFredrik/VS-Code-Setup/assets/107762409/b98c0e38-a676-4c4f-8856-af56608bd5ce)
 
 
-# Step 6: Open Python Project in VS Code
+# Step 7: Open Python Project in VS Code
 To open your Python project, navigate to File > Open Folder and select your project folder.
 
 ![image](https://github.com/OlofssonFredrik/VS-Code-Setup/assets/107762409/9b548f2e-cc66-41e0-8653-3a4f0667fa63)
 
 
-# Step 7: Selecting the Kernel/Interpreter
+# Step 8: Selecting the Kernel/Interpreter
 The kernel/interpreter you select defines the Python version that will be used to run your files. You should choose the one you've recently installed. To do this:
 
 ### Locate the version currently in use at the top right corner of VS Code.
