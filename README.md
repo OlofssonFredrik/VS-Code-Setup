@@ -23,6 +23,14 @@ pip install numpy plotly matplotlib h5py pandas imageio scipy ipywidgets hdf5plu
 
 ![image](https://github.com/OlofssonFredrik/VS-Code-Setup/assets/107762409/2d0de27e-6add-4272-854b-e6f6be7ae1ed)
 
+# Step 4: Sync Onedrive 
+
+In order to use data and scripts. Go to "Extracting and analysing data from ForMAX" and in topmenu with three dots (...) click "sync". This will create a local path on your directory with the nessecary folder that you can open using VS Code 
+
+![image](https://github.com/OlofssonFredrik/VS-Code-Setup/assets/107762409/181a4a9f-6f33-439f-bd8f-ab4a270e9bb2)
+
+
+
 # Step 4: Set Up VS Code
 Launch VS Code. You'll be asked to select a theme of your preference.
 
