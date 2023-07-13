@@ -14,7 +14,7 @@ Download the latest version of Python from the official Python website. Importan
 
 # Step 3: Install Python Libraries
 To run Python scripts, you'll need some additional libraries. These can be installed via the Command Prompt (Windows) or Terminal (MacOS, Linux). Run the following command:
-pip install numpy plotly matplotlib h5py pandas imageio scipy ipywidgets hdf5plugin ipykernel ipympl
+pip install numpy plotly matplotlib h5py pandas imageio scipy ipywidgets hdf5plugin ipykernel ipympl 
 
 ![image](https://github.com/OlofssonFredrik/VS-Code-Setup/assets/107762409/dbe3e51f-63cd-464f-9eea-397b4b20cffd)
 
