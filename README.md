@@ -8,7 +8,7 @@ Download VS Code from their official site and install it on your system. The dow
 ![image](https://github.com/OlofssonFredrik/VS-Code-Setup/assets/107762409/71a4f4c5-2d5d-4eec-a229-a8b4c9c20b9d)
  
 # Step 2: Install Python
-Download the most recent version of Python directly from the official Python website. Please note: During the installation process, make sure to select the option that states "Add Python to PATH". This step ensures Python can be accessed from any project. There might be an initial checkbox related to admin access. Leave this checked and continue with the process as usual.
+Download the most recent version of Python directly from the official Python website. Please note: During the installation process, make sure to select the option that states "Add Python to PATH". This step ensures Python can be accessed anywhere. There might be an initial checkbox related to admin access. Leave this checked and continue with the process as usual.
 
 ![image](https://github.com/OlofssonFredrik/VS-Code-Setup/assets/107762409/4cd4e3a4-2d06-4764-b70f-9e5112d2e8fd)
 
