@@ -108,5 +108,6 @@ c:\Users\SEOLOFSSOF\AppData\Local\Programs\Python\Python311\python.exe -m pip in
 
 ## Other good to know
 
-Sync VS Code with Github
+Sync VS Code with Github to keep extensions(?) and settings
+
 Enable push protection on your repo
