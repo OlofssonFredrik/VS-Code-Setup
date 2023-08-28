@@ -106,7 +106,7 @@ c:\Users\SEOLOFSSOF\AppData\Local\Programs\Python\Python311\python.exe -m pip in
 
 ![image](https://github.com/OlofssonFredrik/VS-Code-Setup/assets/107762409/790e41c9-717a-4f63-87c1-63f67fa1ee84)
 
-## Other good to know
+# Other good to know
 
 Sync VS Code with Github to keep extensions(?) and settings
 
