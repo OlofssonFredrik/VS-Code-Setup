@@ -75,6 +75,8 @@ Black (Python formatter)
 
 Pylance (Static type checking)
 
+Live Share (Peer programming)
+
 Auto Close Tag (HTML)
 
 Auto Rename Tag (HTML)
