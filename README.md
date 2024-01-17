@@ -23,7 +23,7 @@ pip install numpy plotly matplotlib h5py pandas imageio scipy ipywidgets hdf5plu
 
 ![image](https://github.com/OlofssonFredrik/VS-Code-Setup/assets/107762409/2d0de27e-6add-4272-854b-e6f6be7ae1ed)
 
-# Step 4: Sync Onedrive 
+# Step 4: Sync Onedrive (SKIP If youre not using Onedrive)
 
 To get access to files saved on Onedrive you have to sync it, you also have to be invited to the Onedrive. Go to "Extracting and analysing data from ForMAX" and in topmenu with three dots (...) click "sync". This will create a local path on your directory with the nessecary folder that you can open using VS Code 
 
